@@ -36,6 +36,8 @@ As a student passionate about machine learning, I built this project to apply re
    python app.py
 
 ## Project Structure
+
+```text
 car-price-prediction/
 │
 ├── static/                # CSS and image files for the frontend
@@ -43,9 +45,8 @@ car-price-prediction/
 ├── app.py                 # Flask application file (main backend)
 ├── model.pkl              # Trained machine learning model
 ├── car_data.csv           # Dataset used for training and testing
-├── Car_Price_Prediction_Model.ipynb         # Jupyter notebook with EDA and model training
+├── notebook.ipynb         # Jupyter notebook with EDA and model training
 ├── requirements.txt       # Python dependencies
 └── README.md              # Project documentation
-
 
    
