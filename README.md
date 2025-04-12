@@ -26,9 +26,8 @@ As a student passionate about machine learning, I built this project to apply re
 
 1. Clone the repo:
 2. Install dependencies:
-   ```bash
-pip install -r requirements.txt
-4. Run the app
+   ```bash pip install -r requirements.txt
+3. Run the app
 
 ## 📌 Future Improvements
 - Improve the UI for better user experience.
