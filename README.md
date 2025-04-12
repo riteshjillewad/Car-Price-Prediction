@@ -33,4 +33,19 @@ As a student passionate about machine learning, I built this project to apply re
    pip install -r requirements.txt
 3. Run the app
    ```bash
-   python app.py   
+   python app.py
+
+## Project Structure
+car-price-prediction/
+│
+├── static/                # CSS and image files for the frontend
+├── templates/             # HTML templates (Flask views)
+├── app.py                 # Flask application file (main backend)
+├── model.pkl              # Trained machine learning model
+├── car_data.csv           # Dataset used for training and testing
+├── Car_Price_Prediction_Model.ipynb         # Jupyter notebook with EDA and model training
+├── requirements.txt       # Python dependencies
+└── README.md              # Project documentation
+
+
+   
