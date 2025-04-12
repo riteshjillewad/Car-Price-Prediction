@@ -21,3 +21,17 @@ As a student passionate about machine learning, I built this project to apply re
 - The model processes this data and predicts the car price.
 - Simple Flask-based web interface.
 - Visualizations and exploratory data analysis (EDA) included in Jupyter Notebook.
+
+## 🚀 How to Run the Project
+
+1. Clone the repo:
+2. Install dependencies:
+   ```bash
+pip install -r requirements.txt
+4. Run the app
+
+## 📌 Future Improvements
+- Improve the UI for better user experience.
+- Add more features like car location, transmission type, etc.
+- Try other regression algorithms for better accuracy.
+- Deploy the project on a live server (like Heroku or Render).
