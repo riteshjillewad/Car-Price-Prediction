@@ -31,7 +31,7 @@ As a student passionate about machine learning, I built this project to apply re
 2. **Install Dependencies**
    ```bash
    pip install -r requirements.txt
-3. Run the app
+3. **Run the app**
    ```bash
    python app.py
 
